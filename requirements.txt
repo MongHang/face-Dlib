@@ -1,0 +1,7 @@
+# Python 3.11
+
+# dlib~=19.24.1
+# dlib 需手動下載安裝 https://github.com/z-mahmud22/Dlib_Windows_Python3.x
+opencv-python~=4.9.0.80
+matplotlib~=3.8.3
+numpy~=1.26.4
